@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tiktoe-dev-93201-authRole",
+            "UnauthRoleArn": "arn:aws:iam::513357162581:role/amplify-tiktoe-dev-93201-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::513357162581:role/amplify-tiktoe-dev-93201-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-tiktoe-dev-93201-deployment",
+            "UnauthRoleName": "amplify-tiktoe-dev-93201-unauthRole",
+            "StackName": "amplify-tiktoe-dev-93201",
+            "StackId": "arn:aws:cloudformation:eu-west-2:513357162581:stack/amplify-tiktoe-dev-93201/6d297a90-74bc-11ea-ad69-0aea06869730",
+            "AmplifyAppId": "du698ekts0yz3"
+        }
+    }
+}

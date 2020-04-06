@@ -1,0 +1,25 @@
+{
+  "name": "@aws-sdk/types",
+  "version": "1.0.0-beta.2",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "description": "Types for the AWS SDK",
+  "devDependencies": {
+    "typescript": "~3.8.3"
+  },
+  "scripts": {
+    "prepublishOnly": "tsc",
+    "pretest": "tsc",
+    "test": "exit 0"
+  },
+  "author": {
+    "name": "AWS SDK for JavaScript Team",
+    "email": "",
+    "url": "https://aws.amazon.com/javascript/"
+  },
+  "license": "Apache-2.0"
+
+,"_resolved": "https://registry.npmjs.org/@aws-sdk/types/-/types-1.0.0-beta.2.tgz"
+,"_integrity": "sha512-zqb1EA9FSGLC/J7FBu6KYz+7EGeNG5sE2QeHGtj4tvFLDSJO6/hluDgQzVW1UsYUitdiBelg8m6xj45eGh2+wg=="
+,"_from": "@aws-sdk/types@1.0.0-beta.2"
+}

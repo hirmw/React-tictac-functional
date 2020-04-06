@@ -1,0 +1,16 @@
+{
+  "name": "zen-push",
+  "version": "0.2.1",
+  "repository": "zenparsing/zen-push",
+  "description": "An Observable push stream",
+  "homepage": "https://github.com/zenparsing/zen-push",
+  "license": "MIT",
+  "dependencies": {
+    "zen-observable": "^0.7.0"
+  },
+  "devDependencies": {}
+
+,"_resolved": "https://registry.npmjs.org/zen-push/-/zen-push-0.2.1.tgz"
+,"_integrity": "sha512-Qv4qvc8ZIue51B/0zmeIMxpIGDVhz4GhJALBvnKs/FRa2T7jy4Ori9wFwaHVt0zWV7MIFglKAHbgnVxVTw7U1w=="
+,"_from": "zen-push@0.2.1"
+}

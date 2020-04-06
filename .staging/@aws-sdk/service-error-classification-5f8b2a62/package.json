@@ -1,0 +1,25 @@
+{
+  "name": "@aws-sdk/service-error-classification",
+  "version": "1.0.0-beta.2",
+  "scripts": {
+    "prepublishOnly": "tsc",
+    "pretest": "tsc -p tsconfig.test.json",
+    "test": "jest"
+  },
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "author": {
+    "name": "AWS SDK for JavaScript Team",
+    "url": "https://aws.amazon.com/javascript/"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.1.0",
+    "typescript": "~3.8.3"
+  }
+
+,"_resolved": "https://registry.npmjs.org/@aws-sdk/service-error-classification/-/service-error-classification-1.0.0-beta.2.tgz"
+,"_integrity": "sha512-2SYU1j7UZAmia41fICRUnHlm6sgtQUdW9afJ3sEN+ABS7FBBbp6vdOdFWa7bi9QUzrnTm6hVaX2Nd5YYomao6A=="
+,"_from": "@aws-sdk/service-error-classification@^1.0.0-beta.2"
+}
