@@ -2,10 +2,17 @@ import React, { useState, useReducer } from 'react';
 import Header from './Components/Header';
 
 const divStyle = {
+  position: 'absolute',
+  margin: 'auto',
+  top: '0',
+  right: '0',
+  left: '0',
+  width: '80%',
   background: '#f4f4f4',
   padding: '10px',
   borderBottom: '1px #ccc dotted',
   textAlign: 'center',
+  marginleft:'100px'
 
 };
 
@@ -16,7 +23,7 @@ border: '10px',
 padding: '10px 20px',
 borderRadius: '10%',
 cursor: 'pointer',
-float: 'center',
+margin: '5px'
 };
 
 
